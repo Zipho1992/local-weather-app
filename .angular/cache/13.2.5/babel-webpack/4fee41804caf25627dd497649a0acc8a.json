@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: true,\n  appId: '691b08daafeea633a92d52473814d8c8',\n  baseUrl: 'https://'\n};","map":null,"metadata":{},"sourceType":"module"}
